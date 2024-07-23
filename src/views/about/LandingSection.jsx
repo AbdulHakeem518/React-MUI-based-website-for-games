@@ -15,7 +15,7 @@ export default function AboutLandingSection() {
         <Content>
           Neureal is an indie world creation studio on a quest to craft MMOs
           with pure simulation, delivering fully immersive digital universes
-          like never before
+          like never before.
         </Content>
       </ContentBox>
     </Container>

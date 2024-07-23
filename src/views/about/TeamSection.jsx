@@ -129,7 +129,7 @@ export default function TeamSection() {
     },
     {
       name: "Viktor Zheng",
-      role: "UX architect",
+      role: "UX Architect",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tristique leo et nibh egestas porttitor.",
       image: ux,
